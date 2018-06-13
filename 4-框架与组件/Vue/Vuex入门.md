@@ -1,1 +1,3 @@
 ## Vuex
+
+- getter
