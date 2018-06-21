@@ -1,3 +1,5 @@
 ## Vuex
 
+- state
+
 - getter
