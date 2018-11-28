@@ -1,4 +1,4 @@
-> **声明：本文内容依照阮一峰老师[ECMAScript 6 入门](http://es6.ruanyifeng.com/)**一书所总结。
+> 声明：本文内容依照阮一峰老师[ECMAScript 6 入门](http://es6.ruanyifeng.com/)一书所总结。
 
 #### let和const
 
